@@ -9,3 +9,8 @@
  * En el centro podemos encontrar una foto de los tenistas del momento
 
 #### Diferentes menús
+* Podemos ver las categorias de la pagina
+* Puedes contactar con nostotros
+* Consultar los torneos y las diferentes categorias
+* Leer la politica y privacidad
+* Ver todas las categorias de las que disponemos
