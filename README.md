@@ -14,3 +14,9 @@
 * Consultar los torneos y las diferentes categorias
 * Leer la politica y privacidad
 * Ver todas las categorias de las que disponemos
+
+#### Plugins
+* En el menu de los torneos incluimos el plugin de OSM
+* Para contactar con nosotros instalamos informal form 4
+* Classic editor para que la edición en algunos ambitos sea mas sencilla
+* 
