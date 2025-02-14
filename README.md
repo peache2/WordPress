@@ -1,6 +1,5 @@
 # SuperTenis
 
-## *Que encotramos*
 
 #### Menu principal
  * En la parte alta encontramos una barra con muchos menus en los cuales podemos navegar
