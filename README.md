@@ -19,4 +19,4 @@
 * En el menu de los torneos incluimos el plugin de OSM
 * Para contactar con nosotros instalamos informal form 4
 * Classic editor para que la edición en algunos ambitos sea mas sencilla
-* 
+  
